@@ -2,10 +2,14 @@
 #include <cmath>
 using namespace std;
 
+<<<<<<< HEAD
 int x;
 /*
 fuck you bitch
 */
+=======
+int x, y, z;
+
 
 double hypoten(double x, double y)
 {
