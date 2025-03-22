@@ -3,6 +3,9 @@
 using namespace std;
 
 int x;
+/*
+fuck you bitch
+*/
 
 double hypoten(double x, double y)
 {
