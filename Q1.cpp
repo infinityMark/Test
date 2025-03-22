@@ -9,7 +9,7 @@ fuck you bitch
 */
 =======
 int x, y, z;
-
+/* we will never stop*/
 
 double hypoten(double x, double y)
 {
