@@ -9,6 +9,7 @@ fuck you bitch
 */
 =======
 int x, y, z;
+double a, b, c;
 
 
 double hypoten(double x, double y)
