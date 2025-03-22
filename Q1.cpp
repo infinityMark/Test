@@ -2,7 +2,7 @@
 #include <cmath>
 using namespace std;
 
-int x;
+int x, y, z;
 
 double hypoten(double x, double y)
 {
